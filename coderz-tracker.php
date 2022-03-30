@@ -5,7 +5,7 @@
  * @package       CODERZTRAC
  * @author        Coderz
  * @license       gplv2
- * @version       1.0.0
+ * @version       1.0.4
  *
  * @wordpress-plugin
  * Plugin Name:   Coderz Tracker
@@ -29,7 +29,7 @@ if ( ! defined( 'ABSPATH' ) ) exit;
 define( 'CODERZTRAC_NAME',			'Coderz Tracker' );
 
 // Plugin version
-define( 'CODERZTRAC_VERSION',		'1.0.0' );
+define( 'CODERZTRAC_VERSION',		'1.0.4' );
 
 // Plugin Root File
 define( 'CODERZTRAC_PLUGIN_FILE',	__FILE__ );
@@ -88,7 +88,7 @@ add_action( 'init', 'sfn_gfcoupon_github_updater' );
  * of our master class.
  *
  * @author  Coderz
- * @since   1.0.0
+ * @since   1.0.4
  * @return  object|Coderz_Tracker
  */
 function CODERZTRAC() {

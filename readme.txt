@@ -7,7 +7,7 @@ Tags:
 Requires at least: 
 Tested up to: 
 Requires PHP: 
-Stable tag: 1.0.0
+Stable tag: 1.0.4
 License: GPLv2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -56,6 +56,8 @@ An answer to that question.
 4. Click on `Activate plugin`
 
 == Changelog ==
+= 1.0.4: March 30, 2022 =
+* New Update fixes
 
 = 1.0.0: March 30, 2022 =
 * Birthday of Coderz Tracker
